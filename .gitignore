@@ -7,3 +7,4 @@ build/
 node_modules/
 *.pyc
 .pytest_cache/
+*.tmp
